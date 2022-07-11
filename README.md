@@ -12,7 +12,9 @@
 ### Mejor GitHub Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-E-J-O-R&show_icons=true&theme=dracula)
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/M-E-J-O-R/badges)
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-E-J-O-R&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=M-E-J-O-R&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
