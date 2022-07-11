@@ -9,3 +9,4 @@
 - 📫 How to reach me: Twitter - @M_E_J_O_R
 - ⚡ Fun fact: ... I'm a lover of realistic art
 
+### https://github-readme-stats.vercel.app/api?username=M-EJ-O-R&show_icons=true&theme=radical
